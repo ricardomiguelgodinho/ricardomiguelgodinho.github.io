@@ -13,7 +13,7 @@ title                    : "Ricardo Miguel Godinho"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://ricardomiguelgodinho.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Ricardo Miguel Godinho"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Palaeoanthropologist"
   location         : "Faro (Portugal)"
   employer         : "ICArEHB (University of Algarve)"
   uri              : # URL
@@ -42,8 +42,8 @@ author:
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Ricardo-Miguel-Godinho"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=56996996100"
   zotero           : # URL
 
 
