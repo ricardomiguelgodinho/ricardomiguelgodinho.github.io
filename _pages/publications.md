@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+
 ## Journal articles
 
 - Miszkiewicz, J. J., **Godinho, R. M.**, Sohler-Snoddy, A. M., Pasda, K., Détroit, F., Mahoney, P., Rathgeber, T., Posth, C., Uthmeier, T., Barbieri, A. (2026). *Early development of Neanderthals revealed through virtual microanatomy*. Royal Society Open Science.
