@@ -3,9 +3,6 @@ layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
-sidebar:
-  title: "Contents"
-  nav: "publications"
 toc: true
 toc_label: "On this page"
 toc_icon: "list"
