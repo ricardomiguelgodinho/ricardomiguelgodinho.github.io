@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,4 +16,4 @@ I am also interested in other topics, including funerary practices of past popul
 
 Contents
 ======
-Here you will find information about my research project, publications and CV.
+Here you will find information about my [research projects](/research/), [publications](/publications/), and [CV](/cv/).
