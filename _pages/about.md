@@ -16,4 +16,4 @@ I am also interested in other topics, including the funerary practices of past p
 
 Contents
 ======
-Here you will find information about my [research projects](/research/), [publications](/publications/), and [CV](/cv/).
+Here you will find information about my [research projects](/research/), [publications](/publications/), [outreach](/outreach/) and [CV](/cv/).
