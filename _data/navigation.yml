@@ -18,9 +18,6 @@ main:
     url: /outreach/
 
 
-  
-#  - title: "CV"
-#    url: /cv/
 
 #  - title: "Talks"
 #    url: /talks/    
@@ -36,6 +33,10 @@ main:
     
 #  - title: "Portfolio"
 #    url: /portfolio/
+
+#  - title: "CV"
+#    url: /cv/
+
         
 #  - title: "Blog Posts"
 #    url: /year-archive/
