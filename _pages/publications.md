@@ -1,8 +1,11 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
+sidebar:
+  title: "Contents"
+  nav: "publications"
 ---
 
 ## Contents
