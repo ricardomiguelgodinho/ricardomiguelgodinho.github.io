@@ -6,6 +6,10 @@ author_profile: true
 sidebar:
   title: "Contents"
   nav: "publications"
+toc: true
+toc_label: "On this page"
+toc_icon: "list"
+toc_sticky: true
 ---
 
 ## Journal articles
@@ -110,4 +114,10 @@ sidebar:
 ## Pre-prints
 {: #pre-prints }
 
-- Leite, A., Welker, F., **Godinho, R. M.**, Gillis, R. E., Islas, V. V., & Fagernas, Z. (2026). *Beyond dairy: Identification of dental enamel proteins in ancient human dental calculus*. 
+- Leite, A., Welker, F., **Godinho, R. M.**, Gillis, R. E., Islas, V. V., & Fagernas, Z. (2026). *Beyond dairy: Identification of dental enamel proteins in ancient human dental calculus*. *bioRxiv*, 2026.2003.2021.713223. <a href="https://doi.org/10.64898/2026.03.21.713223" target="_blank" rel="noopener noreferrer">DOI</a>
+
+- Miszkiewicz, J. J., **Godinho, R. M.**, Sohler-Snoddy, A. M., Pasda, K., Détroit, F., Mahoney, P., Rathgeber, T., Posth, C., Uthmeier, T., Barbieri, A. (2026). *Early development of Neanderthals revealed through virtual microanatomy*. *bioRxiv*, 2026.2002.2025.707915. <a href="https://doi.org/10.64898/2026.02.25.707915" target="_blank" rel="noopener noreferrer">DOI</a>
+
+- **Godinho, R. M.**, Crevecouer, I., Garcia, S., Withing, R., & Aramendi, J. (2025). *Coupling geometric morphometrics and machine learning for mandibular sex estimation: testing Late Pleistocene and Late Modern populations*. *Research Square preprint*. <a href="https://doi.org/10.21203/rs.3.rs-6389860/v1" target="_blank" rel="noopener noreferrer">DOI</a>
+
+- Ruether, P. L., Husic, I. M., Bangsgaard, P., Murphy Gregersen, K., Pantmann, P., Carvalho, M., **Godinho, R. M.**, Friedl, L., Cascalheira, J., Joerkov, M. L. S., Benedetti, M., Haws, J., Bicho, N., Welker, F., Cappellini, E., & Olsen, J. V. (2021). *SPIN - Species by Proteome INvestigation*. *bioRxiv*, 2021.2002.2023.432520. <a href="https://doi.org/10.1101/2021.02.23.432520" target="_blank" rel="noopener noreferrer">DOI</a>
