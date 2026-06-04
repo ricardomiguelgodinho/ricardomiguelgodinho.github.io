@@ -8,7 +8,6 @@ author_profile: true
 
 
 ## Journal articles
-
 - Miszkiewicz, J. J., **Godinho, R. M.**, Sohler-Snoddy, A. M., Pasda, K., Détroit, F., Mahoney, P., Rathgeber, T., Posth, C., Uthmeier, T., Barbieri, A. (2026). *Early development of Neanderthals revealed through virtual microanatomy*. Royal Society Open Science.
 - Fotiadou, C. M., Pedersen, J. B., Rougier, H., Roksandic, M., Spyrou, M. A., Nägele, K., Reiter, E., Bocherens, H., Kandel, A. W., Haidle, M. N., Streicher, T. P., Conard, N. J., Schilt, F., **Godinho, R. M.**, Uthmeier, T., Doyon, L., Semal, P., Krause, J., Barbieri, A., Mihailović, D., Crevecoeur, I., Posth, C. (2026). *Archaeogenetic insights into the demographic history of Late Neanderthals*. Proceedings of the National Academy of Sciences, 123(13), e2520565123. doi:10.1073/pnas.2520565123
 - Simão, P., Garcia, S. J., & **Godinho, R. M.** (2026). *A geometric morphometrics approach to sex estimation of infants from 0 to 6 years using the auricular surface*. Scientific Reports. doi:10.1038/s41598-026-35321-y
