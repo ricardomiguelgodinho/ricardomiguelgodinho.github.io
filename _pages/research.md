@@ -5,5 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-## Research projects
-
+## Selected funded research projects
+- [Fulbright Grant for Scholars and Researchers (2024)]
+- [ParaFunction – Are Neanderthals adapted to heavy masticatory and paramasticatory function?] (https://doi.org/10.54499/2022.07737.PTDC)
+- [Archaeology of Portugal Grant of the Archaeological Institute of America] (https://www.archaeological.org/grant/archaeology-of-portugal-fellowship/)
