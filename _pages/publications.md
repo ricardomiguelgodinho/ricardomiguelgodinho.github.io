@@ -1,22 +1,9 @@
 ---
-layout: single
+layout: archive
 title: "Publications"
 permalink: /publications/
 author_profile: true
-sidebar:
-  title: "Contents"
-  nav: "publications"
-toc: false
 ---
-
-<div class="pub-layout">
-  <aside class="pub-layout__toc">
-    <div class="pub-layout__toc-inner">
-      {% include toc icon="list" title="On this page" sanitize=true html=true h_min=2 h_max=2 %}
-    </div>
-  </aside>
-
-  <div class="pub-layout__content">
 
 ## Journal articles
 {: #journal-articles }
