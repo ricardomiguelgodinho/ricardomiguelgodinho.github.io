@@ -114,6 +114,3 @@ author_profile: true
 - **Godinho, R. M.**, Crevecouer, I., Garcia, S., Withing, R., & Aramendi, J. (2025). *Coupling geometric morphometrics and machine learning for mandibular sex estimation: testing Late Pleistocene and Late Modern populations*. *Research Square preprint*. <a href="https://doi.org/10.21203/rs.3.rs-6389860/v1" target="_blank" rel="noopener noreferrer">DOI</a>
 
 - Ruether, P. L., Husic, I. M., Bangsgaard, P., Murphy Gregersen, K., Pantmann, P., Carvalho, M., **Godinho, R. M.**, Friedl, L., Cascalheira, J., Joerkov, M. L. S., Benedetti, M., Haws, J., Bicho, N., Welker, F., Cappellini, E., & Olsen, J. V. (2021). *SPIN - Species by Proteome INvestigation*. *bioRxiv*, 2021.2002.2023.432520. <a href="https://doi.org/10.1101/2021.02.23.432520" target="_blank" rel="noopener noreferrer">DOI</a>
-
-  </div>
-</div>
