@@ -21,19 +21,6 @@ main:
     url: /cv/
 
 
-publications:
-  - title: "Sections"
-    children:
-      - title: "Journal articles"
-        url: /publications/#journal-articles
-      - title: "Book sections"
-        url: /publications/#book-sections
-      - title: "Conference proceedings sections"
-        url: /publications/#conference-proceedings-sections
-      - title: "Pre-prints"
-        url: /publications/#pre-prints
-
-
 #  - title: "Talks"
 #    url: /talks/    
     
