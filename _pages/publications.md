@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+This is a selection of my publications. See my [Googgle Scholar](https://scholar.google.com/citations?user=WuEKbJgAAAAJ&hl=pt-PT) or [ORCID](https://orcid.org/0000-0003-0107-9577) for an updated list.
+
 ## Journal articles
 {: #journal-articles }
 
