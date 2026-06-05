@@ -16,8 +16,8 @@ In addition to teaching at the undergraduate and post-graduate level about human
 
 
 ## Former students
-Chafim Braga (MA in Archaeology at the University of Algarve; 2025)
-Miguel Costa (MA in Archaeology at the University of Algarve; 2025)
-Patrícia Simão (MA in Archaeology at the University of Algarve; 2024)
-Mariana Ribeiro (BSc in Biomedical Sciences at the University of Algarve; 2024)
-João Pinheiro (BA in Cultural Heritage and Archaeology at the University of Algarve; 2024)
+- Chafim Braga (MA in Archaeology at the University of Algarve; 2025)
+- Miguel Costa (MA in Archaeology at the University of Algarve; 2025)
+- Patrícia Simão (MA in Archaeology at the University of Algarve; 2024)
+- Mariana Ribeiro (BSc in Biomedical Sciences at the University of Algarve; 2024)
+- João Pinheiro (BA in Cultural Heritage and Archaeology at the University of Algarve; 2024)
