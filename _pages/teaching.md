@@ -8,8 +8,11 @@ author_profile: true
 
 In addition to teaching at the undergraduate and post-graduate level about human bioarchaeology and human evolution, I also supervise undergraduate and postgraduate students.
 
+
+
 # Prospective students
 [Contact me](rmgodinho@ualg.pt) if you are interested in discussing potential projects.
+
 
 
 ## Former students
