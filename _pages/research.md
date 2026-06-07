@@ -50,7 +50,7 @@ This project aimed to assess how the transition from Mesolithic foraging to Neol
   <div class="research-text" markdown="1">
 ### Recent hominin cranial form and function
 
-This research was conducted during my Phd and aimed at assessing if the skull morphological between *Homo heidelbergensis* - *Homo sapiens* are due to adaptation to masticatory function.
+This research was conducted during my Phd and aimed at assessing if the skull morphological between *Homo heidelbergensis* and *Homo sapiens* are due to adaptation to masticatory function.
   </div>
   <div class="research-image">
     <img src="/images/recent_hominin_1.png" alt="Recent hominin cranial form and function project image">
