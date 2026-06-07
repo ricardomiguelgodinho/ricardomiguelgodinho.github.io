@@ -24,10 +24,10 @@ This project aims to assess the impact of masticatory and paramasticatory functi
   <div class="research-text" markdown="1">
 ### [Fulbright Grant for Scholars and Researchers](https://www.fulbright.pt/wp-content/uploads/2025/03/Fulbrighters-2024-2025.pdf){:target="_blank" :rel="noopener noreferrer"}
 
-This project included a collaboration with Noreen von Cramon-Taubadel (State University of New York at Buffalo) to examine the extent to which mandible form is impacted by population history and by other factors.
+This project included a collaboration with Noreen von Cramon-Taubadel (State University of New York at Buffalo) to examine the extent to which mandible form is impacted by population history and other factors.
   </div>
   <div class="research-image">
-    <img src="/images/research/fulbright.jpg" alt="Fulbright Grant project image">
+    <img src="/images/fulbright_1.png" alt="Fulbright Grant project image">
   </div>
 </div>
 
