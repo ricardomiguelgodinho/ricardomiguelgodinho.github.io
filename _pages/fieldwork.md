@@ -13,7 +13,6 @@ I've been involved in the excavation of burial sites spanning from the Mesolithi
   <img src="/images/fieldwork/outeiro_alto_2.jpg" alt="Archaeological burial context 3">
   <img src="/images/fieldwork/outeiro_alto_3.jpg" alt="Archaeological burial context 4">
   <img src="/images/fieldwork/outeiro_alto_4.jpg" alt="Archaeological burial context 5">
-  <img src="/images/fieldwork/outeiro_alto_4.jpg" alt="Archaeological burial context 5">
   <img src="/images/fieldwork/outeiro_alto_5.jpg" alt="Archaeological burial context 5">
   <img src="/images/fieldwork/outeiro_alto_6.jpg" alt="Archaeological burial context 5">
   <img src="/images/fieldwork/parque_anel_verde_1.jpg" alt="Archaeological burial context 5">
