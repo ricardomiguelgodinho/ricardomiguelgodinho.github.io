@@ -8,8 +8,6 @@
    sorted by the dependencies. Also, the first two lines of the file are required by Jekyll.
  */
 
-########################################
-
 @import
     "vendor/breakpoint/breakpoint",
 
@@ -44,7 +42,7 @@
     "vendor/font-awesome/brands"
 ;
 
-########################################
+
 
 .research-item {
   display: grid;
@@ -78,7 +76,7 @@
   display: block;
 }
 
-########################################
+
 
 @media (max-width: 768px) {
   .research-item {
@@ -99,7 +97,7 @@
   }
 }
 
-########################################
+
 
 .image-strip {
   display: flex;
