@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Fieldwork"
+permalink: /fieldwork/
 author_profile: true
 ---
 
