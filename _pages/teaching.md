@@ -10,7 +10,7 @@ In addition to teaching at the undergraduate and post-graduate level about human
 
 
 
-# Prospective students
+## Prospective students
 [Contact me](mailto:rmgodinho@eualg.pt) if you are interested in discussing potential projects.
 
 
