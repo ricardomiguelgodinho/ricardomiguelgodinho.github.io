@@ -8,7 +8,7 @@ author_profile: true
 I've been involved in the excavation of burial sites spanning from the Mesolithic to the 20th century. Here is a selection of some of the contexts.
 
 <div class="image-strip">
-  <img src="/images/fieldwork/horta_joao_moura_01.JPG" alt="Archaeological burial context 1">
+  <img src="/images/fieldwork/horta_joao_moura_1.JPG" alt="Archaeological burial context 1">
   <img src="/images/fieldwork/outeiro_alto_1.jpg" alt="Archaeological burial context 2">
   <img src="/images/fieldwork/outeiro_alto_2.jpg" alt="Archaeological burial context 3">
   <img src="/images/fieldwork/outeiro_alto_3.jpg" alt="Archaeological burial context 4">
