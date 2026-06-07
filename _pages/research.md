@@ -25,7 +25,7 @@ This project included a collaboration with Noreen von Cramon-Taubadel (State Uni
 This project aims to assess the impact of masticatory and paramasticatory function on the skull morphology of Neanderthals and modern humans. It uses a virtual anthropology toolkit that includes 3D digitisation, geometric morphometrics and finite element analysis.
   </div>
   <div class="research-image">
-    <img src="/images/research/parafunction.jpg" alt="ParaFunction project image">
+    <img src="/images/research/parafunction_1.jpg" alt="ParaFunction project image">
   </div>
 </div>
 
