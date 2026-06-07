@@ -44,22 +44,23 @@
 
 .research-item {
   display: flex;
-  justify-content: space-between;
   align-items: flex-start;
   gap: 2rem;
   margin-bottom: 3rem;
 }
 
 .research-text {
-  flex: 1 1 65%;
+  flex: 1 1 auto;
+  min-width: 0;
 }
 
 .research-image {
-  flex: 0 0 220px;
-  text-align: right;
+  flex: 0 0 180px;   /* controls image column width */
+  margin-left: auto; /* pushes image to the right */
 }
 
 .research-image img {
+  width: 180px;      /* controls actual image size */
   max-width: 100%;
   height: auto;
   display: block;
