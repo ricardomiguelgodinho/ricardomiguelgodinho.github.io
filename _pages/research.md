@@ -33,7 +33,7 @@ This project included a collaboration with Noreen von Cramon-Taubadel (State Uni
   <div class="research-text" markdown="1">
 ### [Archaeology of Portugal Grant of the Archaeological Institute of America](https://www.archaeological.org/grant/archaeology-of-portugal-fellowship/){:target="_blank" :rel="noopener noreferrer"}
 
-This project aimed to assess how the transition from Mesolithic foraging to Neolithic farming impacted mandibular morphology.
+This project aimed to assess how the transition from Mesolithic foraging to Neolithic-Chalcolithic farming in SW Iberia impacted mandibular morphology.
   </div>
   <div class="research-image">
     <img src="/images/AIA_1.png" alt="Archaeology of Portugal project image">
