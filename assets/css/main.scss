@@ -76,12 +76,12 @@
   display: block;
 }
 
-
-
 @media (max-width: 768px) {
   .research-item {
     display: block;
   }
+
+
 
   .research-image {
     width: 120px;
@@ -110,9 +110,16 @@
 
 .image-strip img {
   flex: 0 0 auto;
-  max-height: 220px;
+  max-height: 300px;
   width: auto;
   height: auto;
   display: block;
   border-radius: 10px;
+  scroll-snap-align: start;
+}
+
+@media (max-width: 768px) {
+  .image-strip img {
+    max-height: 200px;
+  }
 }
