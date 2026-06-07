@@ -36,6 +36,6 @@ This project included a collaboration with Noreen von Cramon-Taubadel (State Uni
 This project aimed to assess how the transition from Mesolithic foraging to Neolithic farming impacted mandibular morphology.
   </div>
   <div class="research-image">
-    <img src="/images/AIA_1.jpg" alt="Archaeology of Portugal project image">
+    <img src="/images/AIA_1.png" alt="Archaeology of Portugal project image">
   </div>
 </div>
