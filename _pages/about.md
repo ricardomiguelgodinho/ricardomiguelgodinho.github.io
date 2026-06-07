@@ -11,9 +11,9 @@ I'm a palaeoanthropologist interested in understanding what shapes hominin varia
 
 My research focuses particularly on the impact of masticatory function on hominin skull morphological evolution. To that end I use conventional and virtual anthropology methods, including 3D digitisation, digital based morphological analysis (e.g., Geometric Morphometrics) and virtual mechanical simulations (i.e., Finite Element analysis).
 
-I am also interested in other topics, including the funerary practices of past populations.
+I have also worked in field contract and research archaeology as bioanthropologist. In that context I have also developed an interest in the palaeobiology and funerary practices of past populations.
 
 
 Contents
 ======
-Here you will find information about my [research projects](/research/), [publications](/publications/) and some [outreach actions](/outreach/).
+Here you will find information about my [research projects](/research/), [publications](/publications/) [teaching activities](/teaching/) and some [outreach actions](/outreach/).
