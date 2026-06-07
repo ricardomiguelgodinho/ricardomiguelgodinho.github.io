@@ -140,4 +140,70 @@ $(document).ready(function () {
     preventDefault: false,
   });
 
+  /* =======================================================================
+     Fieldwork image carousel
+     -----------------------------------------------------------------------
+     What this section does:
+     - Looks for the fieldwork carousel on the page.
+     - Connects the left and right arrow buttons.
+     - Moves the image row one image at a time.
+     - Disables the left arrow on the first image and the right arrow on the last.
+     - Runs only if a carousel exists, so it will not affect other pages.
+     ======================================================================= */
+
+  // Look for the carousel container on the current page.
+  const carousel = document.querySelector(".image-carousel");
+
+  // Only run the carousel code if that element exists.
+  if (carousel) {
+
+    // The moving row that contains all images.
+    const track = carousel.querySelector(".carousel-track");
+
+    // Collect all images inside the track into an array.
+    const images = Array.from(track.querySelectorAll("img"));
+
+    // Find the previous and next arrow buttons.
+    const prevBtn = carousel.querySelector(".carousel-arrow.prev");
+    const nextBtn = carousel.querySelector(".carousel-arrow.next");
+
+    // Start by showing the first image.
+    let currentIndex = 0;
+
+    // Update the carousel position and button states.
+    function updateCarousel() {
+      // Move the track left by 100% for each step.
+      // Example:
+      // index 0 -> translateX(0%)
+      // index 1 -> translateX(-100%)
+      // index 2 -> translateX(-200%)
+      track.style.transform = `translateX(-${currentIndex * 100}%)`;
+
+      // Disable previous button on the first image.
+      prevBtn.disabled = currentIndex === 0;
+
+      // Disable next button on the last image.
+      nextBtn.disabled = currentIndex === images.length - 1;
+    }
+
+    // Go to the previous image when the left arrow is clicked.
+    prevBtn.addEventListener("click", function () {
+      if (currentIndex > 0) {
+        currentIndex--;
+        updateCarousel();
+      }
+    });
+
+    // Go to the next image when the right arrow is clicked.
+    nextBtn.addEventListener("click", function () {
+      if (currentIndex < images.length - 1) {
+        currentIndex++;
+        updateCarousel();
+      }
+    });
+
+    // Set the correct starting position and button state on page load.
+    updateCarousel();
+  }
+
 });
