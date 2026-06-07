@@ -18,6 +18,8 @@ This project aims to assess the impact of masticatory and paramasticatory functi
   </div>
 </div>
 
+
+
 <div class="research-item" markdown="1">
   <div class="research-text" markdown="1">
 ### [Fulbright Grant for Scholars and Researchers](https://www.fulbright.pt/wp-content/uploads/2025/03/Fulbrighters-2024-2025.pdf){:target="_blank" :rel="noopener noreferrer"}
@@ -29,6 +31,8 @@ This project included a collaboration with Noreen von Cramon-Taubadel (State Uni
   </div>
 </div>
 
+
+
 <div class="research-item" markdown="1">
   <div class="research-text" markdown="1">
 ### [Archaeology of Portugal Grant of the Archaeological Institute of America](https://www.archaeological.org/grant/archaeology-of-portugal-fellowship/){:target="_blank" :rel="noopener noreferrer"}
@@ -37,5 +41,18 @@ This project aimed to assess how the transition from Mesolithic foraging to Neol
   </div>
   <div class="research-image">
     <img src="/images/AIA_1.png" alt="Archaeology of Portugal project image">
+  </div>
+</div>
+
+
+
+<div class="research-item" markdown="1">
+  <div class="research-text" markdown="1">
+### [Recent hominin cranial form and function]
+
+This research was conducted during my Phd and aimed at assessing if the skull morphological between Homo heidelbergensis - Homo sapiens are due to adaptation to masticatory function.
+  </div>
+  <div class="research-image">
+    <img src="/images/recent_hominin_1.png" alt="Recent hominin cranial form and function project image">
   </div>
 </div>
