@@ -42,27 +42,27 @@
     "vendor/font-awesome/brands"
 ;
 
+
+
 .research-item {
-  display: flex;
-  align-items: flex-start;
-  gap: 2rem;
+  display: grid;
+  grid-template-columns: 1fr 140px;
+  column-gap: 2rem;
+  align-items: start;
   margin-bottom: 3rem;
 }
 
 .research-text {
-  flex: 1 1 auto;
   min-width: 0;
 }
 
 .research-image {
-  flex: 0 0 140px;
   width: 140px;
   height: 140px;
-  margin-left: auto;
-  margin-top: 0;
   border-radius: 50%;
   overflow: hidden;
-  display: block;
+  justify-self: end;
+  align-self: start;
 }
 
 .research-image img {
@@ -70,8 +70,10 @@
   height: 100%;
   object-fit: cover;
   display: block;
-  border-radius: 50%;
 }
+
+
+
 @media (max-width: 768px) {
   .research-item {
     display: block;
