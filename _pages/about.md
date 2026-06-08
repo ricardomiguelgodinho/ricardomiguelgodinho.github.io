@@ -16,4 +16,4 @@ I have also worked in field contract and research archaeology as bioanthropologi
 
 Contents
 ======
-Here you will find information about my [research projects](/research/), [publications](/publications/) [teaching activities](/teaching/), [fieldwork](/fieldwork/) and some [outreach actions](/outreach/).
+Here you will find information about my [research projects](/research/), [publications](/publications/), [teaching activities](/teaching/), [fieldwork](/fieldwork/) and some [outreach actions](/outreach/).
