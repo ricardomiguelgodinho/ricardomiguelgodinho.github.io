@@ -117,7 +117,7 @@ author_profile: true
       </h3>
     </div>
     <div class="outreach-image">
-      <img src="/images/outreach/publico-fossil-footprints.jpg" alt="Preview image for Público interview about hominin fossil footprints">
+      <img src="/images/outreach/2024_11_29_pegadas_hominineos.png" alt="Preview image for Público interview about hominin fossil footprints">
     </div>
   </div>
 
@@ -130,7 +130,7 @@ author_profile: true
       </h3>
     </div>
     <div class="outreach-image">
-      <img src="/images/outreach/antena1-parafunction.jpg" alt="Preview image for Antena 1 interview about the ParaFunction project">
+      <img src="/images/outreach/2024_05_26_parafunction.png" alt="Preview image for Antena 1 interview about the ParaFunction project">
     </div>
   </div>
 
