@@ -91,7 +91,7 @@ author_profile: true
       </h3>
     </div>
     <div class="outreach-image">
-      <img src="/images/outreach/rtp-neanderthals.jpg" alt="Preview image for RTP radio interview on Neanderthals">
+      <img src="/images/outreach/2026_06_04_admiravel_mundo_ciencia.png" alt="Preview image for RTP radio interview on Neanderthals">
     </div>
   </div>
 
@@ -104,7 +104,7 @@ author_profile: true
       </h3>
     </div>
     <div class="outreach-image">
-      <img src="/images/outreach/publico-opinion-human-evolution.jpg" alt="Preview image for Público opinion article on human evolution and racism">
+      <img src="/images/outreach/2025_07_22_sou_portugues.png" alt="Preview image for Público opinion article on human evolution and racism">
     </div>
   </div>
 
