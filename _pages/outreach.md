@@ -12,33 +12,28 @@ author_profile: true
 
 <style>
   .outreach-intro {
-    max-width: 48rem;
-    margin-bottom: 2rem;
-    font-size: 1.05rem;
+    max-width: 46rem;
+    margin: 0 0 2.25rem 0;
+    font-size: 1.02rem;
     line-height: 1.75;
+    color: #d6d6d6;
   }
 
   .outreach-list {
-    margin-top: 2rem;
+    margin-top: 0.5rem;
   }
 
   .outreach-item {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) 220px;
+    grid-template-columns: minmax(0, 1fr) 200px;
     gap: 1.5rem;
     align-items: center;
-    margin-bottom: 1.25rem;
-    padding: 1.25rem;
-    border: 1px solid rgba(255, 255, 255, 0.12);
-    border-radius: 12px;
-    background: rgba(255, 255, 255, 0.02);
-    transition: background 0.2s ease, border-color 0.2s ease, transform 0.2s ease;
+    padding: 1.4rem 0;
+    border-top: 1px solid rgba(255, 255, 255, 0.14);
   }
 
-  .outreach-item:hover {
-    background: rgba(255, 255, 255, 0.04);
-    border-color: rgba(255, 255, 255, 0.18);
-    transform: translateY(-1px);
+  .outreach-item:last-child {
+    border-bottom: 1px solid rgba(255, 255, 255, 0.14);
   }
 
   .outreach-text {
@@ -47,30 +42,31 @@ author_profile: true
 
   .outreach-type {
     display: inline-block;
-    margin-bottom: 0.45rem;
-    font-size: 0.74rem;
+    margin-bottom: 0.35rem;
+    font-size: 0.72rem;
     font-weight: 700;
     letter-spacing: 0.08em;
     text-transform: uppercase;
-    color: #bcbcbc;
+    color: #aaaaaa;
   }
 
   .outreach-text h3 {
-    margin: 0 0 0.45rem 0;
-    font-size: 1.25rem;
-    line-height: 1.35;
+    margin: 0 0 0.4rem 0;
+    font-size: 1.12rem;
+    line-height: 1.4;
+    font-weight: 600;
   }
 
   .outreach-text p {
     margin: 0;
-    max-width: 46rem;
-    font-size: 0.98rem;
-    line-height: 1.6;
-    color: #d2d2d2;
+    max-width: 42rem;
+    font-size: 0.95rem;
+    line-height: 1.65;
+    color: #cfcfcf;
   }
 
   .outreach-text a {
-    color: #4ea9da;
+    color: #56a9d6;
     text-decoration: none;
   }
 
@@ -80,43 +76,30 @@ author_profile: true
   }
 
   .outreach-image {
-    align-self: stretch;
+    justify-self: end;
+    width: 100%;
+    max-width: 200px;
   }
 
   .outreach-image img {
     width: 100%;
     aspect-ratio: 4 / 3;
-    height: 100%;
     display: block;
     object-fit: cover;
-    border-radius: 10px;
+    border-radius: 8px;
     border: 1px solid rgba(255, 255, 255, 0.1);
-  }
-
-  @media (max-width: 900px) {
-    .outreach-item {
-      grid-template-columns: minmax(0, 1fr) 190px;
-      gap: 1.25rem;
-    }
-
-    .outreach-text h3 {
-      font-size: 1.15rem;
-    }
   }
 
   @media (max-width: 768px) {
     .outreach-item {
       grid-template-columns: 1fr;
+      gap: 0.9rem;
       align-items: start;
     }
 
     .outreach-image {
-      order: -1;
-      max-width: 280px;
-    }
-
-    .outreach-text h3 {
-      font-size: 1.1rem;
+      justify-self: start;
+      max-width: 240px;
     }
   }
 </style>
@@ -132,7 +115,7 @@ author_profile: true
         </a>
       </h3>
       <p>
-        Newspaper coverage of research on fetal skeletal growth in Neanderthals and its relevance for understanding similarities and differences with modern humans.
+        Newspaper coverage of research on fetal skeletal growth in Neanderthals and its implications for understanding similarities and differences with modern humans.
       </p>
     </div>
     <div class="outreach-image">
