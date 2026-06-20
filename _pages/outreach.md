@@ -7,7 +7,7 @@ author_profile: true
 
 Outreach is fundamental for building bridges between academia and wider publics. Below is a selection of outreach activities in which I have been involved.
 
-- [Interview in *Público* about an article I co-first authored about Neanderthal growth] (https://www.publico.pt/2026/06/19/ciencia/noticia/crescimento-osseo-fetal-neandertais-semelhante-humanos-modernos-2178504){:target="_blank" :rel="noopener noreferrer"}
+- [Interview in *Público* about an article I co-first authored about Neanderthal growth](https://www.publico.pt/2026/06/19/ciencia/noticia/crescimento-osseo-fetal-neandertais-semelhante-humanos-modernos-2178504){:target="_blank" :rel="noopener noreferrer"}
 
 - [Radio interview on Neanderthals for *Admirável Mundo da Ciência* (RTP)](https://www.rtp.pt/play/p783/e926118/admiravel-mundo-da-ciencia){:target="_blank" :rel="noopener noreferrer"}
 
