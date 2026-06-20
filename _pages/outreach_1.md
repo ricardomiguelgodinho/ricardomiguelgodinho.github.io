@@ -78,7 +78,7 @@ author_profile: true
       </h3>
     </div>
     <div class="outreach-image">
-      <img src="/images/outreach/publico-neanderthal-growth.jpg" alt="Preview image for Público interview about Neanderthal growth">
+      <img src="/images/outreach/2026_06_20_Publico_1.png" alt="Preview image for Público interview about Neanderthal growth">
     </div>
   </div>
 
