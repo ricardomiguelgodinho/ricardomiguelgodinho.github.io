@@ -42,6 +42,16 @@ author_profile: true
     color: #cfcfcf;
   }
 
+  .research-text a {
+    color: #56a9d6;
+    text-decoration: none;
+  }
+
+  .research-text a:hover,
+  .research-text a:focus {
+    text-decoration: underline;
+  }
+
   .research-image {
     justify-self: end;
     width: 160px;
@@ -79,7 +89,11 @@ author_profile: true
 
   <article class="research-item">
     <div class="research-text">
-      <h3>ParaFunction – Are Neanderthals adapted to heavy masticatory and paramasticatory function?</h3>
+      <h3>
+        <a href="https://doi.org/10.54499/2022.07737.PTDC" target="_blank" rel="noopener noreferrer">
+          ParaFunction – Are Neanderthals adapted to heavy masticatory and paramasticatory function?
+        </a>
+      </h3>
       <p>
         This project aims to assess the impact of masticatory and paramasticatory function on the skull morphology of Neanderthals and modern humans. It uses a virtual anthropology toolkit that includes 3D digitisation, geometric morphometrics and finite element analysis.
       </p>
@@ -91,7 +105,11 @@ author_profile: true
 
   <article class="research-item">
     <div class="research-text">
-      <h3>Fulbright Grant for Scholars and Researchers</h3>
+      <h3>
+        <a href="https://www.fulbright.pt/wp-content/uploads/2025/03/Fulbrighters-2024-2025.pdf" target="_blank" rel="noopener noreferrer">
+          Fulbright Grant for Scholars and Researchers
+        </a>
+      </h3>
       <p>
         This project included a collaboration with Noreen von Cramon-Taubadel (State University of New York at Buffalo) to examine the extent to which mandible form is impacted by population history and other factors.
       </p>
@@ -103,7 +121,11 @@ author_profile: true
 
   <article class="research-item">
     <div class="research-text">
-      <h3>Archaeology of Portugal Grant of the Archaeological Institute of America</h3>
+      <h3>
+        <a href="https://www.archaeological.org/grant/archaeology-of-portugal-fellowship/" target="_blank" rel="noopener noreferrer">
+          Archaeology of Portugal Grant of the Archaeological Institute of America
+        </a>
+      </h3>
       <p>
         This project aimed to assess how the transition from Mesolithic foraging to Neolithic-Chalcolithic farming in SW Iberia impacted mandibular morphology.
       </p>
