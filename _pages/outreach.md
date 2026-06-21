@@ -208,6 +208,19 @@ author_profile: true
     </div>
   </article>
 
+<article class="outreach-item">
+  <div class="outreach-text">
+    <div class="outreach-type">Interview · 2026</div>
+    <h3><em>Público</em> interview on Neanderthal growth</h3>
+    <p>
+      Newspaper coverage of research on fetal skeletal growth in Neanderthals and its implications for understanding similarities and differences with modern humans.
+    </p>
+  </div>
+  <div class="outreach-image">
+    <img src="/images/outreach/2026_06_20_Publico_1.png" alt="Público article about Neanderthal growth">
+  </div>
+</article>
+
   <article class="outreach-item">
     <div class="outreach-text">
       <div class="outreach-type">Talk · 2022</div>
