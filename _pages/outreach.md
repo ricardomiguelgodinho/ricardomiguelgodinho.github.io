@@ -191,4 +191,21 @@ author_profile: true
     </div>
   </article>
 
+  <article class="outreach-item">
+    <div class="outreach-text">
+      <div class="outreach-type">Talk · 2022</div>
+      <h3>
+        <a href="https://www.rtp.pt/play/p2936/90-segundos-ciencia" target="_blank" rel="noopener noreferrer">
+          Public talk at <em>FIC.A</em>
+        </a>
+      </h3>
+      <p>
+        Talk about the main drivers of human evolution.
+      </p>
+    </div>
+    <div class="outreach-image">
+      <img src="/images/outreach/2024_05_26_parafunction.png" alt="Antena 1 interview about the ParaFunction project">
+    </div>
+  </article>
+
 </div>
