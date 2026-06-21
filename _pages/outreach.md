@@ -108,7 +108,7 @@ author_profile: true
 
   <article class="outreach-item">
     <div class="outreach-text">
-      <div class="outreach-type">Interview</div>
+      <div class="outreach-type">Interview · 2026</div>
       <h3>
         <a href="https://www.publico.pt/2026/06/19/ciencia/noticia/crescimento-osseo-fetal-neandertais-semelhante-humanos-modernos-2178504" target="_blank" rel="noopener noreferrer">
           <em>Público</em> interview on Neanderthal growth
@@ -125,7 +125,7 @@ author_profile: true
 
   <article class="outreach-item">
     <div class="outreach-text">
-      <div class="outreach-type">Radio</div>
+      <div class="outreach-type">Radio · 2026</div>
       <h3>
         <a href="https://www.rtp.pt/play/p783/e926118/admiravel-mundo-da-ciencia" target="_blank" rel="noopener noreferrer">
           RTP radio interview on Neanderthals
@@ -142,7 +142,7 @@ author_profile: true
 
   <article class="outreach-item">
     <div class="outreach-text">
-      <div class="outreach-type">Opinion</div>
+      <div class="outreach-type">Opinion · 2025</div>
       <h3>
         <a href="https://www.publico.pt/2025/07/22/ciencia/opiniao/portugues-europeu-africano-asiatico-mundo-2140893" target="_blank" rel="noopener noreferrer">
           <em>Público</em> opinion article on human evolution, xenophobia, and racism
@@ -159,7 +159,7 @@ author_profile: true
 
   <article class="outreach-item">
     <div class="outreach-text">
-      <div class="outreach-type">Interview</div>
+      <div class="outreach-type">Interview · 2024</div>
       <h3>
         <a href="https://www.publico.pt/2024/11/29/ciencia/noticia/ha-15-milhoes-anos-ja-diferentes-hominineos-pisarem-espacos-2113722" target="_blank" rel="noopener noreferrer">
           <em>Público</em> interview on hominin fossil footprints
@@ -176,7 +176,7 @@ author_profile: true
 
   <article class="outreach-item">
     <div class="outreach-text">
-      <div class="outreach-type">Radio</div>
+      <div class="outreach-type">Radio · 2024</div>
       <h3>
         <a href="https://www.rtp.pt/play/p2936/90-segundos-ciencia" target="_blank" rel="noopener noreferrer">
           Antena 1 interview on the <em>ParaFunction</em> project
