@@ -194,11 +194,7 @@ author_profile: true
   <article class="outreach-item">
     <div class="outreach-text">
       <div class="outreach-type">Talk · 2022</div>
-      <h3>
-        <a href="">
-          Public talk at the <em>Science and technology week</em> in the Algarve Living Science Center
-        </a>
-      </h3>
+      </h3>Public talk at the <em>Science and technology week</em> in the Algarve Living Science Center
       <p>
         Talk about the main drivers of human evolution.
       </p>
@@ -220,22 +216,5 @@ author_profile: true
     <img src="/images/outreach/2022_10_13_FICA.jpg" alt="Public talk at FIC.A">
   </div>
 </article>
-
-  <article class="outreach-item">
-    <div class="outreach-text">
-      <div class="outreach-type">Talk · 2022</div>
-      <h3>
-        <a href="">
-          Public talk at <em>FIC.A</em>
-        </a>
-      </h3>
-      <p>
-        Talk about the main drivers of human evolution.
-      </p>
-    </div>
-    <div class="outreach-image">
-      <img src="/images/outreach/2022_10_13_FICA.jpg" alt="Public talk at FIC.A">
-    </div>
-  </article>
 
 </div>
