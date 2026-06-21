@@ -204,7 +204,7 @@ author_profile: true
       </p>
     </div>
     <div class="outreach-image">
-      <img src="/images/outreach/2022_10_13_FICA.png" alt="Public talk at FIC.A">
+      <img src="/images/outreach/2022_10_13_FICA.jpg" alt="Public talk at FIC.A">
     </div>
   </article>
 
