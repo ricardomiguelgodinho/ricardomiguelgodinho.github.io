@@ -81,52 +81,68 @@ author_profile: true
   }
 </style>
 
-## Selected funded research projects
+<h2>Selected funded research projects</h2>
 
 <div class="research-list">
 
-  <div class="research-item" markdown="1">
-    <div class="research-text" markdown="1">
-### [ParaFunction – Are Neanderthals adapted to heavy masticatory and paramasticatory function?](https://doi.org/10.54499/2022.07737.PTDC){:target="_blank" :rel="noopener noreferrer"}
-
-This project aims to assess the impact of masticatory and paramasticatory function on the skull morphology of Neanderthals and modern humans. It uses a virtual anthropology toolkit that includes 3D digitisation, geometric morphometrics and finite element analysis.
+  <article class="research-item">
+    <div class="research-text">
+      <h3>
+        <a href="https://doi.org/10.54499/2022.07737.PTDC" target="_blank" rel="noopener noreferrer">
+          ParaFunction – Are Neanderthals adapted to heavy masticatory and paramasticatory function?
+        </a>
+      </h3>
+      <p>
+        This project aims to assess the impact of masticatory and paramasticatory function on the skull morphology of Neanderthals and modern humans. It uses a virtual anthropology toolkit that includes 3D digitisation, geometric morphometrics and finite element analysis.
+      </p>
     </div>
     <div class="research-image">
       <img src="/images/parafunction_1.jpg" alt="ParaFunction project image">
     </div>
-  </div>
+  </article>
 
-  <div class="research-item" markdown="1">
-    <div class="research-text" markdown="1">
-### [Fulbright Grant for Scholars and Researchers](https://www.fulbright.pt/wp-content/uploads/2025/03/Fulbrighters-2024-2025.pdf){:target="_blank" :rel="noopener noreferrer"}
-
-This project included a collaboration with Noreen von Cramon-Taubadel (State University of New York at Buffalo) to examine the extent to which mandible form is impacted by population history and other factors.
+  <article class="research-item">
+    <div class="research-text">
+      <h3>
+        <a href="https://www.fulbright.pt/wp-content/uploads/2025/03/Fulbrighters-2024-2025.pdf" target="_blank" rel="noopener noreferrer">
+          Fulbright Grant for Scholars and Researchers
+        </a>
+      </h3>
+      <p>
+        This project included a collaboration with Noreen von Cramon-Taubadel (State University of New York at Buffalo) to examine the extent to which mandible form is impacted by population history and other factors.
+      </p>
     </div>
     <div class="research-image">
       <img src="/images/fulbright_1.png" alt="Fulbright Grant project image">
     </div>
-  </div>
+  </article>
 
-  <div class="research-item" markdown="1">
-    <div class="research-text" markdown="1">
-### [Archaeology of Portugal Grant of the Archaeological Institute of America](https://www.archaeological.org/grant/archaeology-of-portugal-fellowship/){:target="_blank" :rel="noopener noreferrer"}
-
-This project aimed to assess how the transition from Mesolithic foraging to Neolithic-Chalcolithic farming in SW Iberia impacted mandibular morphology.
+  <article class="research-item">
+    <div class="research-text">
+      <h3>
+        <a href="https://www.archaeological.org/grant/archaeology-of-portugal-fellowship/" target="_blank" rel="noopener noreferrer">
+          Archaeology of Portugal Grant of the Archaeological Institute of America
+        </a>
+      </h3>
+      <p>
+        This project aimed to assess how the transition from Mesolithic foraging to Neolithic-Chalcolithic farming in SW Iberia impacted mandibular morphology.
+      </p>
     </div>
     <div class="research-image">
       <img src="/images/AIA_1.png" alt="Archaeology of Portugal project image">
     </div>
-  </div>
+  </article>
 
-  <div class="research-item" markdown="1">
-    <div class="research-text" markdown="1">
-### Recent hominin cranial form and function
-
-This research was conducted during my Phd and aimed at assessing if the skull morphological differences between *Homo heidelbergensis* and *Homo sapiens* are due to adaptation to masticatory function.
+  <article class="research-item">
+    <div class="research-text">
+      <h3>Recent hominin cranial form and function</h3>
+      <p>
+        This research was conducted during my Phd and aimed at assessing if the skull morphological differences between <em>Homo heidelbergensis</em> and <em>Homo sapiens</em> are due to adaptation to masticatory function.
+      </p>
     </div>
     <div class="research-image">
       <img src="/images/recent_hominin_1.png" alt="Recent hominin cranial form and function project image">
     </div>
-  </div>
+  </article>
 
 </div>
