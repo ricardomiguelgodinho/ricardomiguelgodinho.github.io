@@ -60,9 +60,8 @@ author_profile: true
 
   .research-image img {
     width: 100%;
-    aspect-ratio: 4 / 3;
+    height: auto;
     display: block;
-    object-fit: cover;
     border-radius: 8px;
     border: 1px solid rgba(255, 255, 255, 0.1);
   }
