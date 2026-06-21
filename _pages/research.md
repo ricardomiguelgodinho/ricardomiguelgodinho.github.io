@@ -12,7 +12,7 @@ author_profile: true
 
   .research-item {
     display: grid;
-    grid-template-columns: minmax(0, 1fr) 200px;
+    grid-template-columns: minmax(0, 1fr) 180px;
     gap: 1.5rem;
     align-items: center;
     padding: 1.4rem 0;
@@ -42,28 +42,20 @@ author_profile: true
     color: #cfcfcf;
   }
 
-  .research-text a {
-    color: #56a9d6;
-    text-decoration: none;
-  }
-
-  .research-text a:hover,
-  .research-text a:focus {
-    text-decoration: underline;
-  }
-
   .research-image {
     justify-self: end;
-    width: 100%;
-    max-width: 200px;
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    overflow: hidden;
+    border: 1px solid rgba(255, 255, 255, 0.1);
   }
 
   .research-image img {
     width: 100%;
-    height: auto;
+    height: 100%;
     display: block;
-    border-radius: 8px;
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    object-fit: cover;
   }
 
   @media (max-width: 768px) {
@@ -75,7 +67,8 @@ author_profile: true
 
     .research-image {
       justify-self: start;
-      max-width: 240px;
+      width: 140px;
+      height: 140px;
     }
   }
 </style>
@@ -86,11 +79,7 @@ author_profile: true
 
   <article class="research-item">
     <div class="research-text">
-      <h3>
-        <a href="https://doi.org/10.54499/2022.07737.PTDC" target="_blank" rel="noopener noreferrer">
-          ParaFunction – Are Neanderthals adapted to heavy masticatory and paramasticatory function?
-        </a>
-      </h3>
+      <h3>ParaFunction – Are Neanderthals adapted to heavy masticatory and paramasticatory function?</h3>
       <p>
         This project aims to assess the impact of masticatory and paramasticatory function on the skull morphology of Neanderthals and modern humans. It uses a virtual anthropology toolkit that includes 3D digitisation, geometric morphometrics and finite element analysis.
       </p>
@@ -102,11 +91,7 @@ author_profile: true
 
   <article class="research-item">
     <div class="research-text">
-      <h3>
-        <a href="https://www.fulbright.pt/wp-content/uploads/2025/03/Fulbrighters-2024-2025.pdf" target="_blank" rel="noopener noreferrer">
-          Fulbright Grant for Scholars and Researchers
-        </a>
-      </h3>
+      <h3>Fulbright Grant for Scholars and Researchers</h3>
       <p>
         This project included a collaboration with Noreen von Cramon-Taubadel (State University of New York at Buffalo) to examine the extent to which mandible form is impacted by population history and other factors.
       </p>
@@ -118,11 +103,7 @@ author_profile: true
 
   <article class="research-item">
     <div class="research-text">
-      <h3>
-        <a href="https://www.archaeological.org/grant/archaeology-of-portugal-fellowship/" target="_blank" rel="noopener noreferrer">
-          Archaeology of Portugal Grant of the Archaeological Institute of America
-        </a>
-      </h3>
+      <h3>Archaeology of Portugal Grant of the Archaeological Institute of America</h3>
       <p>
         This project aimed to assess how the transition from Mesolithic foraging to Neolithic-Chalcolithic farming in SW Iberia impacted mandibular morphology.
       </p>
