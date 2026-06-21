@@ -195,7 +195,24 @@ author_profile: true
     <div class="outreach-text">
       <div class="outreach-type">Talk · 2022</div>
       <h3>
-        <a href="https://www.rtp.pt/play/p2936/90-segundos-ciencia" target="_blank" rel="noopener noreferrer">
+        <a href="">
+          Public talk at the <em>Science and technology week</em> in the Algarve Living Science Center
+        </a>
+      </h3>
+      <p>
+        Talk about the main drivers of human evolution.
+      </p>
+    </div>
+    <div class="outreach-image">
+      <img src="/images/outreach/2022_11_26_Semana_da_ciencia.jpg" alt="Public talk at the Algarve Living Science Center">
+    </div>
+  </article>
+
+  <article class="outreach-item">
+    <div class="outreach-text">
+      <div class="outreach-type">Talk · 2022</div>
+      <h3>
+        <a href="">
           Public talk at <em>FIC.A</em>
         </a>
       </h3>
