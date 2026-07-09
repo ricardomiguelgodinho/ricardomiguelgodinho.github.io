@@ -78,8 +78,8 @@ author_profile: true
   .altmetric-wrap::before {
     content: "";
     position: absolute;
-    width: 24px;
-    height: 24px;
+    width: 28px;
+    height: 28px;
     border-radius: 50%;
     background: #ffffff;
     top: 50%;
