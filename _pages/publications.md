@@ -78,7 +78,7 @@ author_profile: true
 </style>
 
 <div class="pub-intro">
-  This is a selection of my publications. See my <a href="https://scholar.google.com/citations?user=WuEKbJgAAAAJ&hl=pt-PT" target="_blank" rel="noopener noreferrer">Googgle Scholar</a> or <a href="https://orcid.org/0000-0003-0107-9577" target="_blank" rel="noopener noreferrer">ORCID</a> for an updated list.
+  This is a selection of my publications. See my <a href="https://scholar.google.com/citations?user=WuEKbJgAAAAJ&hl=pt-PT" target="_blank" rel="noopener noreferrer">Google Scholar</a> or <a href="https://orcid.org/0000-0003-0107-9577" target="_blank" rel="noopener noreferrer">ORCID</a> for an updated list.
 </div>
 
 <h2 id="journal-articles" class="pub-section-title">Journal articles</h2>
@@ -624,33 +624,155 @@ author_profile: true
 
 <h2 id="book-sections" class="pub-section-title">Book sections</h2>
 
-<ul>
-  <li>Valera, A. C., Evangelista, L. S., <strong>Godinho, R. M.</strong> 2026. <em>Dissolving and contrasting. The secondary deposition of human cremains at Perdigões enclosure (3rd millennium BC, South Portugal).</em> In G. Higginbottom, J. Verdonkschot, C. Scarre, A. C. González-García and F. Criado-Boado (eds.), <em>Megalithic Societies: old questions, new narratives</em>. Archaeopress. Bicester: 35-58.</li>
-  <li>Gonçalves, C., Umbelino, C., Cascalheira, J., <strong>Godinho, R.M.</strong>, André, L., Belmiro, J., Santos, M., Figueiredo, M., Matias, R., Costa, C. &amp; Bicho, N. 2022. <em>MugePortal: A new digital platform for the last hunter-gatherers of the Tagus valley, Portugal.</em> <em>Menschen – Kulturen – Traditionen. Studien aus den Forschungsclustern des Deutschen Archäologischen Instituts</em>. Rahden: Verlag Marie Leidorf.</li>
-  <li>Bicho, N., Gonçalves, C., Cascalheira, J., Umbelino, C., <strong>Godinho, R. M.</strong> &amp; Costa, C. 2022. <em>O vale de Muge no contexto do Mesolítico atlântico da Península Ibérica.</em> In V. Gonçalves (ed.), <em>Terra e Sal. Das antigas sociedades camponesas ao fim da ocupação romana. Estudos dedicados a Carlos Tavares da Silva</em>. Lisboa: UNIARQ. 59-74.</li>
-  <li><strong>Godinho, R.M.</strong>, Leite A. 2021. <em>Contextos Antropológicos do Castro de Chibanes.</em> In J. Soares, C. Tavares da Silva (eds.), <em>O Castro de Chibanes e a Conquista Romana. Intervenção arqueológica de 1996 a 2017</em>. Setúbal: MAEDS. 65-72.</li>
-  <li><strong>Godinho, R. M.</strong>, &amp; Gonçalves, C. 2020. <em>Antropologia Virtual: novas metodologias para a análise morfológica e funcional.</em> In <em>Actas do III Congresso da Associação dos Arqueólogos Portugueses</em>.</li>
-  <li>Evangelista, L. S., &amp; <strong>Godinho, R. M.</strong> 2020. <em>Estudo bio-antropológico do Sepulcro 4 dos Perdigões.</em> In A. C. Valera (ed.), <em>O Sepulcro 4 dos Perdigões. Um Tholos da Segunda Metade do 3º Milénio A.C.</em> (pp. 57-102). Lisboa: Núcleo de Investigação Arqueológica (NIA) &amp; Era Arqueologia, S.A.</li>
-  <li>Valera, A.C., Silva, A.M., Leandro, I., <strong>Godinho, R.M.</strong>, Evangelista, L.S. 2018. <em>Contextos funerários e manipulação de restos humanos.</em> In A. C. Valera (ed.), <em>Os Perdigões Neolíticos Génese e desenvolvimento (de meados do 4º aos inícios do 3º milénio AC)</em>. Lisboa: Núcleo de Investigação Arqueológica (NIA), 155-162.</li>
-  <li><strong>Godinho, R.M.</strong>, O Higgins P. 2017. <em>Virtual reconstruction of cranial remains: the H. heidelbergensis, Kabwe 1 fossil.</em> In T. Thompson, D. Errickson (eds.), <em>Human remains - Another dimension: the application of 3D imaging in funerary context</em>. Elsevier. 135-147.</li>
-</ul>
+<div class="pub-list">
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Valera, A. C., Evangelista, L. S., <strong>Godinho, R. M.</strong> 2026. <em>Dissolving and contrasting. The secondary deposition of human cremains at Perdigões enclosure (3rd millennium BC, South Portugal).</em> In G. Higginbottom, J. Verdonkschot, C. Scarre, A. C. González-García and F. Criado-Boado (eds.), <em>Megalithic Societies: old questions, new narratives</em>. Archaeopress. Bicester: 35-58.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Gonçalves, C., Umbelino, C., Cascalheira, J., <strong>Godinho, R.M.</strong>, André, L., Belmiro, J., Santos, M., Figueiredo, M., Matias, R., Costa, C. &amp; Bicho, N. 2022. <em>MugePortal: A new digital platform for the last hunter-gatherers of the Tagus valley, Portugal.</em> <em>Menschen – Kulturen – Traditionen. Studien aus den Forschungsclustern des Deutschen Archäologischen Instituts</em>. Rahden: Verlag Marie Leidorf.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Bicho, N., Gonçalves, C., Cascalheira, J., Umbelino, C., <strong>Godinho, R. M.</strong> &amp; Costa, C. 2022. <em>O vale de Muge no contexto do Mesolítico atlântico da Península Ibérica.</em> In V. Gonçalves (ed.), <em>Terra e Sal. Das antigas sociedades camponesas ao fim da ocupação romana. Estudos dedicados a Carlos Tavares da Silva</em>. Lisboa: UNIARQ. 59-74.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p><strong>Godinho, R.M.</strong>, Leite A. 2021. <em>Contextos Antropológicos do Castro de Chibanes.</em> In J. Soares, C. Tavares da Silva (eds.), <em>O Castro de Chibanes e a Conquista Romana. Intervenção arqueológica de 1996 a 2017</em>. Setúbal: MAEDS. 65-72.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p><strong>Godinho, R. M.</strong>, &amp; Gonçalves, C. 2020. <em>Antropologia Virtual: novas metodologias para a análise morfológica e funcional.</em> In <em>Actas do III Congresso da Associação dos Arqueólogos Portugueses</em>.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Evangelista, L. S., &amp; <strong>Godinho, R. M.</strong> 2020. <em>Estudo bio-antropológico do Sepulcro 4 dos Perdigões.</em> In A. C. Valera (ed.), <em>O Sepulcro 4 dos Perdigões. Um Tholos da Segunda Metade do 3º Milénio A.C.</em> (pp. 57-102). Lisboa: Núcleo de Investigação Arqueológica (NIA) &amp; Era Arqueologia, S.A.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Valera, A.C., Silva, A.M., Leandro, I., <strong>Godinho, R.M.</strong>, Evangelista, L.S. 2018. <em>Contextos funerários e manipulação de restos humanos.</em> In A. C. Valera (ed.), <em>Os Perdigões Neolíticos Génese e desenvolvimento (de meados do 4º aos inícios do 3º milénio AC)</em>. Lisboa: Núcleo de Investigação Arqueológica (NIA), 155-162.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p><strong>Godinho, R.M.</strong>, O Higgins P. 2017. <em>Virtual reconstruction of cranial remains: the H. heidelbergensis, Kabwe 1 fossil.</em> In T. Thompson, D. Errickson (eds.), <em>Human remains - Another dimension: the application of 3D imaging in funerary context</em>. Elsevier. 135-147.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+</div>
 
 <h2 id="conference-proceedings-sections" class="pub-section-title">Conference proceedings sections</h2>
 
-<ul>
-  <li>Gonçalves, A., Catarino, H., Janeirinho, V., Neto, F., <strong>Godinho, R.M.</strong> 2023. <em>A necrópole islâmica do ribat do Alto da Vigia, Sintra.</em> In <em>Actas do IV Congresso da Associação dos Arqueólogos Portugueses</em>.</li>
-  <li><strong>Godinho, R. M.</strong>, &amp; Duarte, C. 2022. <em>Análises destrutivas de remanescentes ósseos/odontológicos humanos e salvaguarda digital.</em> <em>Scientia Antiquitatis</em>: 369-396.</li>
-  <li><strong>Godinho, R. M.</strong>, Magalhães, B. M., Lee Jesus, R., Monge-Calleja, Á., Coutinho, A. P., Toso, A., . . . Pereira, P. A. 2022. <em>SAND: Alguns resultados bioantropológicos preliminares do projecto de investigação em Sarilhos Grandes (Montijo).</em> <em>Scientia Antiquitatis</em>: 354-368.</li>
-  <li>O’Higgins, O.; <strong>Godinho, R.M.</strong>; Toro-Ibacache, V. 2018. <em>Geometric morphometrics applied to finite elements analysis of the cranium: Sizes, shapes, spaces and scalings.</em> <em>Geometric Morphometrics. Trends in Biology, Paleobiology and Archeology</em>.</li>
-  <li>Pereira, P.A.; Sianto, L.; Chaves, S.A.M.; Teixeira-Santos, I.; Gonçalves, D.; Santos, A.L.; Toso, A.; Monge Calleja, A.L.; Coutinho, A.P.; Araújo, A.C.; <strong>Godinho, R.M.</strong> 2017. <em>Necrópole do Largo da Igreja (Sarilhos Grandes, Montijo): Evidências Bioarqueológicas de Contato entre Portugal e o Novo Mundo.</em> <em>Sines, o porto e o mar. História e património</em>, Sines, Portugal: 123-141.</li>
-  <li><strong>Godinho R.M.</strong> 2017. <em>Virtual anthropology and the study of skeletal form and function.</em> In <em>JIA 2016 - Between Science and Culture: from interdisciplinarity to the transversality of archaeology</em>. Lisboa: CHAM: 309-314.</li>
-  <li>Moro-Berraquero, F.J., Simão, I., <strong>Godinho, R.M.</strong>, 2013. <em>Santa Margarida do Sado 3. La influencia fenicio-púnica al interior de la cuenca del Río Sado.</em> In <em>VII Encontro de Arqueologia do Sudoeste Peninsular, Aroche-Serpa</em>, 2015: 501-529.</li>
-  <li>Calvo, E; Moro-Berraquero, F. J.; <strong>Godinho, R.M.</strong> 2010. <em>Intervenciones arqueológicas en el yacimiento arqueológico de Monte de Cortes (Serpa, Portugal).</em> In <em>Actas do V Encontro de Arqueologia do Sudoeste Peninsular</em>. Almodôvar: 85-98.</li>
-  <li>Valera A.; <strong>Godinho, R. M.</strong>; Calvo E.; Moro Berraquero J.; Filipe V.; Santos H. 2010. <em>Um mundo em negativo: fossos, fossas e hipogeus entre o Neolítico Final e a Idade do Bronze na margem esquerda do Guadiana (Brinches, Serpa).</em> In A.C. Silva, F.T. Regala, M. Martinho (eds.), <em>4º Colóquio de Arqueologia do Alqueva - O Plano de Rega (2002-2010)</em>. Beja: EDIA: 55-73.</li>
-  <li>Brazuna S.; <strong>Godinho R. M.</strong> 2010. <em>Xancra II (Cuba, Beja): resultados preliminares da necrópole Islâmica.</em> In A.C. Silva, F.T. Regala, M. Martinho (eds.), <em>4º Colóquio de Arqueologia do Alqueva - O Plano de Rega (2002-2010)</em>. Beja: EDIA: 219-224.</li>
-  <li>Filipe, I.; Simão, I.; <strong>Godinho, R. M.</strong>; Brazuna, S. 2010. <em>Trabalhos arqueológicos realizados no Parque da Cidade: novos contributos para a história de Lagos em época Moderna.</em> In M. J. Gonçalves (ed.), <em>Xelb</em>, 10. Silves, Câmara Municipal de Silves: 747-756.</li>
-  <li>Pereira, P.; <strong>Godinho, R. M.</strong>; Gonçalves, D. 2008. <em>A Necrópole do Largo da Igreja, Sarilhos Grandes.</em> In <em>Jornadas de Arqueologia do Vale do Tejo em Território Português</em>: 103-112.</li>
-</ul>
+<div class="pub-list">
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Gonçalves, A., Catarino, H., Janeirinho, V., Neto, F., <strong>Godinho, R.M.</strong> 2023. <em>A necrópole islâmica do ribat do Alto da Vigia, Sintra.</em> In <em>Actas do IV Congresso da Associação dos Arqueólogos Portugueses</em>.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p><strong>Godinho, R. M.</strong>, &amp; Duarte, C. 2022. <em>Análises destrutivas de remanescentes ósseos/odontológicos humanos e salvaguarda digital.</em> <em>Scientia Antiquitatis</em>: 369-396.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p><strong>Godinho, R. M.</strong>, Magalhães, B. M., Lee Jesus, R., Monge-Calleja, Á., Coutinho, A. P., Toso, A., . . . Pereira, P. A. 2022. <em>SAND: Alguns resultados bioantropológicos preliminares do projecto de investigação em Sarilhos Grandes (Montijo).</em> <em>Scientia Antiquitatis</em>: 354-368.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>O’Higgins, O.; <strong>Godinho, R.M.</strong>; Toro-Ibacache, V. 2018. <em>Geometric morphometrics applied to finite elements analysis of the cranium: Sizes, shapes, spaces and scalings.</em> <em>Geometric Morphometrics. Trends in Biology, Paleobiology and Archeology</em>.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Pereira, P.A.; Sianto, L.; Chaves, S.A.M.; Teixeira-Santos, I.; Gonçalves, D.; Santos, A.L.; Toso, A.; Monge Calleja, A.L.; Coutinho, A.P.; Araújo, A.C.; <strong>Godinho, R.M.</strong> 2017. <em>Necrópole do Largo da Igreja (Sarilhos Grandes, Montijo): Evidências Bioarqueológicas de Contato entre Portugal e o Novo Mundo.</em> <em>Sines, o porto e o mar. História e património</em>, Sines, Portugal: 123-141.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p><strong>Godinho R.M.</strong> 2017. <em>Virtual anthropology and the study of skeletal form and function.</em> In <em>JIA 2016 - Between Science and Culture: from interdisciplinarity to the transversality of archaeology</em>. Lisboa: CHAM: 309-314.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Moro-Berraquero, F.J., Simão, I., <strong>Godinho, R.M.</strong>, 2013. <em>Santa Margarida do Sado 3. La influencia fenicio-púnica al interior de la cuenca del Río Sado.</em> In <em>VII Encontro de Arqueologia do Sudoeste Peninsular, Aroche-Serpa</em>, 2015: 501-529.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Calvo, E; Moro-Berraquero, F. J.; <strong>Godinho, R.M.</strong> 2010. <em>Intervenciones arqueológicas en el yacimiento arqueológico de Monte de Cortes (Serpa, Portugal).</em> In <em>Actas do V Encontro de Arqueologia do Sudoeste Peninsular</em>. Almodôvar: 85-98.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Valera A.; <strong>Godinho, R. M.</strong>; Calvo E.; Moro Berraquero J.; Filipe V.; Santos H. 2010. <em>Um mundo em negativo: fossos, fossas e hipogeus entre o Neolítico Final e a Idade do Bronze na margem esquerda do Guadiana (Brinches, Serpa).</em> In A.C. Silva, F.T. Regala, M. Martinho (eds.), <em>4º Colóquio de Arqueologia do Alqueva - O Plano de Rega (2002-2010)</em>. Beja: EDIA: 55-73.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Brazuna S.; <strong>Godinho R. M.</strong> 2010. <em>Xancra II (Cuba, Beja): resultados preliminares da necrópole Islâmica.</em> In A.C. Silva, F.T. Regala, M. Martinho (eds.), <em>4º Colóquio de Arqueologia do Alqueva - O Plano de Rega (2002-2010)</em>. Beja: EDIA: 219-224.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Filipe, I.; Simão, I.; <strong>Godinho, R. M.</strong>; Brazuna, S. 2010. <em>Trabalhos arqueológicos realizados no Parque da Cidade: novos contributos para a história de Lagos em época Moderna.</em> In M. J. Gonçalves (ed.), <em>Xelb</em>, 10. Silves, Câmara Municipal de Silves: 747-756.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+  <div class="pub-item">
+    <div class="pub-main">
+      <p>Pereira, P.; <strong>Godinho, R. M.</strong>; Gonçalves, D. 2008. <em>A Necrópole do Largo da Igreja, Sarilhos Grandes.</em> In <em>Jornadas de Arqueologia do Vale do Tejo em Território Português</em>: 103-112.</p>
+    </div>
+    <div class="pub-metrics is-empty"></div>
+  </div>
+
+</div>
 
 <h2 id="pre-prints" class="pub-section-title">Pre-prints</h2>
 
