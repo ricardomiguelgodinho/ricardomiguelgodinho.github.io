@@ -98,10 +98,6 @@ author_profile: true
   </div>
 </div>
 
-<script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script async src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-
-  
   <div class="pub-item">
     <div class="pub-main">
       <p>Fotiadou, C. M., Pedersen, J. B., Rougier, H., Roksandic, M., Spyrou, M. A., Nägele, K., Reiter, E., Bocherens, H., Kandel, A. W., Haidle, M. N., Streicher, T. P., Conard, N. J., Schilt, F., <strong>Godinho, R. M.</strong>, Uthmeier, T., Doyon, L., Semal, P., Krause, J., Barbieri, A., Mihailović, D., Crevecoeur, I., Posth, C. (2026). <em>Archaeogenetic insights into the demographic history of Late Neanderthals</em>. <em>Proceedings of the National Academy of Sciences</em>, 123(13), e2520565123. <a class="pub-doi" href="https://doi.org/10.1073/pnas.2520565123" target="_blank" rel="noopener noreferrer">DOI</a></p>
