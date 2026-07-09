@@ -87,9 +87,24 @@ author_profile: true
 
   <div class="pub-item">
     <div class="pub-main">
-      <p>Miszkiewicz, J. J., <strong>Godinho, R. M.</strong>, Sohler-Snoddy, A. M., Pasda, K., Détroit, F., Mahoney, P., Rathgeber, T., Posth, C., Uthmeier, T., Barbieri, A. (2026). <em>Early development of Neanderthals revealed through virtual microanatomy</em>. <em>Royal Society Open Science</em>.</p>
+      <p>Miszkiewicz, J. J., <strong>Godinho, R. M.</strong>, Sohler-Snoddy, A. M., Pasda, K., Détroit, F., Mahoney, P., Rathgeber, T., Posth, C., Uthmeier, T., Barbieri, A. (2026). <em>Early development of Neanderthals revealed through virtual microanatomy</em>. <em>Royal Society Open Science</em>, 13(6), 260485. <a class="pub-doi" href="https://doi.org/10.1098/rsos.260485" target="_blank" rel="noopener noreferrer">DOI</a></p>
     </div>
-    <div class="pub-metrics is-empty"></div>
+    <div class="pub-metrics">
+      <div class="altmetric-embed"
+           data-badge-type="donut"
+           data-badge-popover="right"
+           data-hide-no-mentions="true"
+           data-link-target="_blank"
+           data-doi="10.1098/rsos.260485"></div>
+      <a href="https://badge.dimensions.ai/details/doi/10.1098%2Frsos.260485"
+         target="_blank"
+         rel="noopener noreferrer"
+         aria-label="Open Dimensions metrics for DOI 10.1098/rsos.260485">
+        <span class="__dimensions_badge_embed__"
+              data-doi="10.1098/rsos.260485"
+              data-style="small_circle"></span>
+      </a>
+    </div>
   </div>
 
   <div class="pub-item">
@@ -160,9 +175,24 @@ author_profile: true
 
   <div class="pub-item">
     <div class="pub-main">
-      <p>Coutinho-Nogueira, D., <strong>Godinho, R. M.</strong>, Ramos Gaspar, R., André, L., Bicho, N., Cascalheira, J., Gonçalves, C., Umbelino, C. (2025). <em>The Non-Adult Burials of Cabeço da Amoreira, Muge (Portugal): Recent Discoveries and New Insights into Mesolithic Funerary Practices</em>. <em>Childhood in the Past</em>, 1-16.</p>
+      <p>Coutinho-Nogueira, D., <strong>Godinho, R. M.</strong>, Ramos Gaspar, R., André, L., Bicho, N., Cascalheira, J., Gonçalves, C., Umbelino, C. (2025). <em>The Non-Adult Burials of Cabeço da Amoreira, Muge (Portugal): Recent Discoveries and New Insights into Mesolithic Funerary Practices</em>. <em>Childhood in the Past</em>, 18(2), 1-16. <a class="pub-doi" href="https://doi.org/10.1080/17585716.2025.2538922" target="_blank" rel="noopener noreferrer">DOI</a></p>
     </div>
-    <div class="pub-metrics is-empty"></div>
+    <div class="pub-metrics">
+      <div class="altmetric-embed"
+           data-badge-type="donut"
+           data-badge-popover="right"
+           data-hide-no-mentions="true"
+           data-link-target="_blank"
+           data-doi="10.1080/17585716.2025.2538922"></div>
+      <a href="https://badge.dimensions.ai/details/doi/10.1080%2F17585716.2025.2538922"
+         target="_blank"
+         rel="noopener noreferrer"
+         aria-label="Open Dimensions metrics for DOI 10.1080/17585716.2025.2538922">
+        <span class="__dimensions_badge_embed__"
+              data-doi="10.1080/17585716.2025.2538922"
+              data-style="small_circle"></span>
+      </a>
+    </div>
   </div>
 
   <div class="pub-item">
