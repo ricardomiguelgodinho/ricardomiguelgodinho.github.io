@@ -1,14 +1,21 @@
 ---
 layout: archive
-title: "Publications Test"
-permalink: /publications-test/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 
 <style>
-  .pub-test {
-    max-width: 950px;
-    margin: 2rem 0;
+  .pub-intro {
+    margin-bottom: 1.5rem;
+  }
+
+  .pub-section-title {
+    margin-top: 2rem;
+  }
+
+  .pub-list {
+    margin-top: 0.75rem;
   }
 
   .pub-item {
@@ -18,12 +25,24 @@ author_profile: true
     align-items: start;
     padding: 1rem 0;
     border-top: 1px solid rgba(255, 255, 255, 0.14);
+  }
+
+  .pub-list .pub-item:last-child {
     border-bottom: 1px solid rgba(255, 255, 255, 0.14);
   }
 
   .pub-main p {
     margin: 0;
     line-height: 1.65;
+  }
+
+  .pub-main a {
+    text-decoration: none;
+  }
+
+  .pub-main a:hover,
+  .pub-main a:focus {
+    text-decoration: underline;
   }
 
   .pub-doi {
@@ -38,46 +57,71 @@ author_profile: true
     justify-content: flex-end;
     gap: 0.75rem;
     min-height: 64px;
+    flex-wrap: nowrap;
   }
 
-  .altmetric-white-disc {
+  .pub-metrics.is-empty {
+    visibility: hidden;
+  }
+
+  .altmetric-wrap {
+    position: relative;
     width: 64px;
     height: 64px;
     min-width: 64px;
-    border-radius: 50%;
-    background: #ffffff;
-    display: flex;
+    display: inline-flex;
     align-items: center;
     justify-content: center;
-    overflow: hidden;
     line-height: 0;
   }
 
-  .altmetric-white-disc .altmetric-embed {
+  .altmetric-wrap::before {
+    content: "";
+    position: absolute;
+    width: 24px;
+    height: 24px;
+    border-radius: 50%;
+    background: #ffffff;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 0;
+    pointer-events: none;
+  }
+
+  .altmetric-wrap .altmetric-embed {
+    position: relative;
+    z-index: 1;
     display: block;
-    transform: scale(1);
-    transform-origin: center center;
   }
 
   @media (max-width: 768px) {
     .pub-item {
       grid-template-columns: 1fr;
+      gap: 0.7rem;
     }
 
     .pub-metrics {
       justify-content: flex-start;
+      flex-wrap: wrap;
     }
   }
 </style>
 
-<div class="pub-test">
+<div class="pub-intro">
+  This is a selection of my publications. See my <a href="https://scholar.google.com/citations?user=WuEKbJgAAAAJ&hl=pt-PT" target="_blank" rel="noopener noreferrer">Google Scholar</a> or <a href="https://orcid.org/0000-0003-0107-9577" target="_blank" rel="noopener noreferrer">ORCID</a> for an updated list.
+</div>
+
+<h2 id="journal-articles" class="pub-section-title">Journal articles</h2>
+
+<div class="pub-list">
+
   <div class="pub-item">
     <div class="pub-main">
       <p>Miszkiewicz, J. J., <strong>Godinho, R. M.</strong>, Sohler-Snoddy, A. M., Pasda, K., Détroit, F., Mahoney, P., Rathgeber, T., Posth, C., Uthmeier, T., Barbieri, A. (2026). <em>Early development of Neanderthals revealed through virtual microanatomy</em>. <em>Royal Society Open Science</em>, 13(6), 260485. <a class="pub-doi" href="https://doi.org/10.1098/rsos.260485" target="_blank" rel="noopener noreferrer">DOI</a></p>
     </div>
-
     <div class="pub-metrics">
-      <div class="altmetric-white-disc">
+      <div class="altmetric-wrap">
         <div class="altmetric-embed"
              data-badge-type="donut"
              data-badge-popover="right"
@@ -85,7 +129,6 @@ author_profile: true
              data-link-target="_blank"
              data-doi="10.1098/rsos.260485"></div>
       </div>
-
       <a href="https://badge.dimensions.ai/details/doi/10.1098%2Frsos.260485"
          target="_blank"
          rel="noopener noreferrer"
@@ -96,7 +139,6 @@ author_profile: true
       </a>
     </div>
   </div>
-</div>
 
   <div class="pub-item">
     <div class="pub-main">
